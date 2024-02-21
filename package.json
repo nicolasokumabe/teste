@@ -1,0 +1,26 @@
+{
+  "name": "mkdir-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicolasokumabe/teste.git"
+  },
+  "keywords": [
+    "cypress",
+    "teste"
+  ],
+  "author": "Nicolas Kumabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasokumabe/teste/issues"
+  },
+  "homepage": "https://github.com/nicolasokumabe/teste#readme",
+  "devDependencies": {
+    "cypress": "^13.6.5"
+  }
+}
